@@ -5,6 +5,6 @@
 
   # 0x404-beep's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[0x404-beep.github.io/eclipse-lab](https://0x404-beep.github.io/eclipse-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
